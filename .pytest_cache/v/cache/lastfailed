@@ -1,0 +1,4 @@
+{
+  "test_main.py::test_rate_limiting": true,
+  "test_main.py::test_priority_processing": true
+}
